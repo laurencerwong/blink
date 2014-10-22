@@ -1,0 +1,58 @@
+Blink Level JSON outline
+---------------------------------
+
+Dictionary: Level
+{
+	Value: (Integer) length
+
+	Dictionary: playerStartLocation
+	{
+		Value: (float) x
+		Value: (float) y
+	}
+
+	Array: buildings
+	{
+		Dictionary: building
+		{
+			Value: (float) x
+			Value: (float) y
+			Value: (int) buildingType
+		}
+
+		.
+		.
+		.
+	}
+
+
+	Array: entities
+	{
+		Dictionary: entity
+		{
+			Value: (float) xEntity
+			Value: (float) yEntity
+			Value: (int) entityType
+		}
+
+		.
+		.
+		.
+	}
+
+	Array: entityTriggers
+	{
+		Dictionary: entityTrigger
+		{
+			Value: (float) playerXLocationTrigger
+			Value: (float) xEntity
+			Value: (float) yEntity
+			Value: (int) entityType
+		}
+
+		.
+		.
+		.
+	}
+
+}

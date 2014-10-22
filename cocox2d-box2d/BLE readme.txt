@@ -1,0 +1,1 @@
+Create a folder named BlinkLevelEditor_lib and put the gson jar in there.  have that in the same directory as the BLE jar and run that.
