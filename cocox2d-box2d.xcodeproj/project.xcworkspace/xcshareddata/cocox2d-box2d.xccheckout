@@ -10,34 +10,46 @@
 	<string>cocox2d-box2d</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>00FBC065-39AE-4FD5-BA9A-7ED63E474E57</key>
+		<key>5E993EEE6C4D7CDC861811F54B26859835A3850B</key>
+		<string>https://github.com/laurencerwong/blink.git</string>
+		<key>bffe40b4-7709-9642-9d0b-c988e0290e46++3587</key>
 		<string>http://itpsvn.usc.edu/svn/itp/20133/382/blink</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>cocox2d-box2d.xcodeproj/project.xcworkspace</string>
+	<string>cocox2d-box2d.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>00FBC065-39AE-4FD5-BA9A-7ED63E474E57</key>
+		<key>5E993EEE6C4D7CDC861811F54B26859835A3850B</key>
+		<string>../..</string>
+		<key>bffe40b4-7709-9642-9d0b-c988e0290e46++3587</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
-		<key>00FBC065-39AE-4FD5-BA9A-7ED63E474E57</key>
+		<key>bffe40b4-7709-9642-9d0b-c988e0290e46++3587</key>
 		<string>http://itpsvn.usc.edu/svn/itp</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>http://itpsvn.usc.edu/svn/itp/20133/382/blink/cocox2d-box2d.xcodeproj</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>00FBC065-39AE-4FD5-BA9A-7ED63E474E57</string>
+	<string>bffe40b4-7709-9642-9d0b-c988e0290e46++3587</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>00FBC065-39AE-4FD5-BA9A-7ED63E474E57</string>
+			<string>bffe40b4-7709-9642-9d0b-c988e0290e46++3587</string>
+			<key>IDESourceControlWCCName</key>
+			<string>blink</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5E993EEE6C4D7CDC861811F54B26859835A3850B</string>
 			<key>IDESourceControlWCCName</key>
 			<string>blink</string>
 		</dict>

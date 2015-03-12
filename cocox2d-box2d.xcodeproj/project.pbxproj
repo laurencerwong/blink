@@ -1979,6 +1979,7 @@
 				);
 				HEADER_SEARCH_PATHS = "\"cocox2d-box2d/libs/kazmath/include\"";
 				INFOPLIST_FILE = "cocox2d-box2d/Resources/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-lsqlite3",
@@ -2004,6 +2005,7 @@
 				);
 				HEADER_SEARCH_PATHS = "\"cocox2d-box2d/libs/kazmath/include\"";
 				INFOPLIST_FILE = "cocox2d-box2d/Resources/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-lsqlite3",
